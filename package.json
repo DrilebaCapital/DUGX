@@ -1,0 +1,17 @@
+{
+    "name": "DUGX",
+    "version": "0.0.1",
+    "description": "ZRC-2 Implimentation  of the Digital Ugandan Shilling (DUGX)",
+    "main": "deploy.js",
+    "repository": "https://github.com/DrilebaCapital/DUGX.git",
+    "author": "adwillfred@gmail.com",
+    "scripts": {
+        "deploy": "node deploy.js"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "@zilliqa-js/zilliqa": "^1.0.0-alpha.1",
+        "bn.js": "^5.1.3",
+        "tslib": "^2.0.1"
+    }
+}
