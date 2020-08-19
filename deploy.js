@@ -46,11 +46,6 @@ async function main() {
             value: `6`
         },
         {
-            vname: "default_operators", // Default operators
-            type: "List ByStr20",
-            value: ["0x45cda339506DE0FA12A5De2beCC7C0d7B9e13e82"]
-        },
-        {
             vname: "init_supply", // Initial supply of tokens
             type: "Uint128",
             value: "0"
